@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hola, soy Aylu
+"Entre líneas de código voy descubriendo todo lo que soy capaz de crear."
 
-<!--
-**aylu-17/aylu-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de programación  
+📍 Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 🎓 Actualmente aprendiendo programación
+- 🛠️ Trabajo con proyectos propios para mejorar mis habilidades
+- ⚡ Me gusta entender cómo funcionan las cosas, no solo usarlas
+
+---
+
+## 🧰 Tecnologías que uso
+
+- 💻 Lenguajes:
+  - HTML, CSS
+  - Java
+  - Python
+
+- 🛠️ Herramientas:
+  - Git & GitHub
+  - Android Studio
+  - VS Code
+  - SQLite
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 App de tareas con notificaciones  
+→ Aplicación Android con recordatorios y almacenamiento local  
+
+🔹 Página web turística  
+→ Sitio web para promocionar cabañas con diseño responsive  
+
+---
+
+## 📈 Actualmente
+
+- 🔍 Mejorando en lógica de programación  
+- 📱 Aprendiendo desarrollo de apps Android  
+- 🌐 Practicando diseño web  
+
+---
+
+## 📫 Contacto
+Gmail: ayluperco@gmail.com
