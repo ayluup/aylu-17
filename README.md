@@ -4,7 +4,7 @@
 💻 Estudiante de programación  
 📍 Argentina  
 
----
+
 
 ## 🧠 Sobre mí
 
@@ -12,7 +12,7 @@
 - 🛠️ Trabajo con proyectos propios para mejorar mis habilidades
 - ⚡ Me gusta entender cómo funcionan las cosas, no solo usarlas
 
----
+
 
 ## 🧰 Tecnologías que uso
 
@@ -27,7 +27,6 @@
   - VS Code
   - SQLite
 
----
 
 ## 📌 Proyectos destacados
 
@@ -37,7 +36,7 @@
 🔹 Página web turística  
 → Sitio web para promocionar cabañas con diseño responsive  
 
----
+
 
 ## 📈 Actualmente
 
@@ -45,7 +44,6 @@
 - 📱 Aprendiendo desarrollo de apps Android  
 - 🌐 Practicando diseño web  
 
----
 
 ## 📫 Contacto
 Gmail: ayluperco@gmail.com
