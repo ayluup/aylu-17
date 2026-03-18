@@ -1,49 +1,54 @@
-# 👋 Hola, soy Aylu
-"Entre líneas de código voy descubriendo todo lo que soy capaz de crear."
+<h1 align="center">Hola, Soy Aylu</h1>
 
-💻 Estudiante de programación  
-📍 Argentina  
+<p align="center">
+  <i>"Entre líneas de código voy descubriendo todo lo que soy capaz de crear."</i>
+</p>
 
-
-
-## 🧠 Sobre mí
-
-- 🎓 Actualmente aprendiendo programación
-- 🛠️ Trabajo con proyectos propios para mejorar mis habilidades
-- ⚡ Me gusta entender cómo funcionan las cosas, no solo usarlas
+<p align="center">
+  💻 Programación · 🌐 Desarrollo Web · 📍 Argentina
+</p>
 
 
 
-## 🧰 Tecnologías que uso
+## ✧ Sobre mí  
 
-- 💻 Lenguajes:
-  - HTML, CSS
-  - Java
-  - Python
+Estoy terminando el secundario en EPET 12 mientras construyo mi camino en la tecnología.  
 
-- 🛠️ Herramientas:
-  - Git & GitHub
-  - Android Studio
-  - VS Code
-  - SQLite
+Me enfoco en el desarrollo web, creando soluciones simples, funcionales y con identidad.  
 
-
-## 📌 Proyectos destacados
-
-🔹 App de tareas con notificaciones  
-→ Aplicación Android con recordatorios y almacenamiento local  
-
-🔹 Página web turística  
-→ Sitio web para promocionar cabañas con diseño responsive  
+Aprendo con cada proyecto, entendiendo el proceso y mejorando constantemente.  
 
 
 
-## 📈 Actualmente
+## ✧ Tecnologías  
 
-- 🔍 Mejorando en lógica de programación  
-- 📱 Aprendiendo desarrollo de apps Android  
-- 🌐 Practicando diseño web  
+<p align="center">
+
+HTML · CSS · Java · Python  
+Git · GitHub · Android Studio · VS Code · SQLite  
+
+</p>
 
 
-## 📫 Contacto
-Gmail: ayluperco@gmail.com
+
+## ✧ Proyectos  
+
+**App de tareas con notificaciones**  
+Aplicación Android con recordatorios y almacenamiento local  
+
+**Página web turística**  
+Sitio web responsive para promoción de cabañas  
+
+
+## ✧ En proceso  
+
+▸ Lógica de programación  
+▸ Desarrollo Android  
+▸ Diseño web  
+
+
+## ✧ Contacto  
+
+<p align="center">
+  📧 ayluperco@gmail.com
+</p>
