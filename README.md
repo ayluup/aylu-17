@@ -12,7 +12,7 @@
 
 ## ✧ Sobre mí  
 
-Estoy terminando el secundario en EPET 12 mientras construyo mi camino en la tecnología.  
+Estoy terminando el secundario en EPET 30 mientras construyo mi camino en la tecnología.  
 
 Me enfoco en el desarrollo web, creando soluciones simples, funcionales y con identidad.  
 
